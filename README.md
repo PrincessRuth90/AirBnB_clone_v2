@@ -141,5 +141,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <h3>Authors</h3>
 
-Marcus Ruth marcusruth86@gmail.com
-Ernest Aiji ernestaiji1@gmail.com
+Marcus Ruth marcusruth86@gmail.com And Ernest Aiji ernestaiji1@gmail.com
